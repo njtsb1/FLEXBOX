@@ -1,2 +1,2 @@
 # FLEXBOX
-Project Flexbox DIO
+Project Flexbox
